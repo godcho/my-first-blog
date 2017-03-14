@@ -4,4 +4,4 @@ myenv
 db.sqlite3
 /static
 .DS_Store
-/myblog/settings.py
+myblog/settings.py
